@@ -1,3 +1,4 @@
+
 # skullbus
 Bus booking software that helps link schools and matatu saccos
 
@@ -11,10 +12,15 @@ due to
 2. Cash handling vulnerabilities: Complex cash collection processes raise concerns about transparency and potential misuse of funds.
 3. Limited communication and tracking: Parents have minimal information about their child's journey, creating anxiety and hindering emergency response.
 
+#currently teachers and parents coordinate with the transport providers, one of the parents or a teacher is tasked with collecting of the fares which is a tiresome activity
+and also poses challenges of honesty and transparency.
+
 #features to solve the above problems
 
+
+
 1. Online bus booking and payment dashboard for parents
-2. Linking neighboring schools so that the bus can pick students who are going to the same locality eg. western Kenya for capacity utilization
+2. Linking neighboring schools so that the bus can pick up students who are going to the same locality eg. western Kenya for capacity utilization
 3. Notification system for parents and school administration to know their student's journey and notification 
 4. Easy bookiping for the matatu owners
 
